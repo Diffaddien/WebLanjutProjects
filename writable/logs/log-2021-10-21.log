@@ -1,0 +1,24 @@
+CRITICAL - 2021-10-21 15:12:26 --> Undefined variable $vlidation
+#0 C:\xampp\htdocs\CI4\app\Views\posts\create.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 216)
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('posts/create', Array, true)
+#4 C:\xampp\htdocs\CI4\app\Controllers\AdminPostsController.php(19): view('posts/create', Array)
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminPostsController->create()
+#6 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminPostsController))
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-10-21 17:33:13 --> Undefined variable $post
+#0 C:\xampp\htdocs\CI4\app\Views\posts\index.php(236): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 236)
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('posts/index', Array, true)
+#4 C:\xampp\htdocs\CI4\app\Controllers\AdminPostsController.php(15): view('posts/index', Array)
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\AdminPostsController->index()
+#6 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminPostsController))
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}

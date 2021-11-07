@@ -1,0 +1,590 @@
+CRITICAL - 2021-10-07 14:45:11 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->Register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:46:42 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->Register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:49:17 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->Register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:49:18 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->Register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:49:18 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->Register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:49:19 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->Register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:49:19 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->Register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:50:07 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->Register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:50:09 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->Register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:50:09 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->Register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:50:09 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->Register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:52:21 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:52:22 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:52:22 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:52:23 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:52:23 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:52:23 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:52:23 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:52:24 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:52:24 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:52:25 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:52:25 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:52:26 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:52:26 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:52:26 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:52:27 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:52:27 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:52:27 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:52:28 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:52:28 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:54:01 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->Register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:54:02 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->Register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:54:51 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->Register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 14:55:52 --> Invalid file: view_register.php
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('view_register.p...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Common.php(1092): CodeIgniter\View\View->render('view_register', Array, true)
+#2 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(27): view('view_register')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->Register()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-10-07 16:33:25 --> Class "app\Controllers\BaseController" not found
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(767): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(386): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-10-07 16:34:00 --> Class "app\Controllers\BaseController" not found
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(767): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(386): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-10-07 16:34:03 --> Class "app\Controllers\BaseController" not found
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(767): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(386): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-10-07 16:34:09 --> Class "app\Models\UserModel" not found
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(779): App\Controllers\Templating->__construct()
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-10-07 16:34:52 --> Class "app\Models\UserModel" not found
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(779): App\Controllers\Templating->__construct()
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-10-07 16:36:48 --> Class "app\Controllers\BaseController" not found
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(767): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(386): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-10-07 16:40:00 --> Undefined property: App\Controllers\Templating::$userModel
+#0 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 45)
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->saveRegister()
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-10-07 16:41:05 --> Undefined property: App\Controllers\Templating::$UserModel
+#0 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 45)
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->saveRegister()
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-10-07 16:41:39 --> Undefined property: App\Controllers\Templating::$usermodel
+#0 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 45)
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->saveRegister()
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-10-07 16:43:04 --> Undefined property: App\Controllers\Templating::$UserModel
+#0 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 45)
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->saveRegister()
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-10-07 16:43:10 --> Undefined property: App\Controllers\Templating::$UserModel
+#0 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 45)
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->saveRegister()
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-10-07 16:50:22 --> Undefined property: App\Controllers\Templating::$userModel
+#0 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 45)
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->saveRegister()
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-10-07 16:52:27 --> Class "app\Models\UserModel" not found
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(779): App\Controllers\Templating->__construct()
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-10-07 16:53:34 --> Class "app\Models\UserModel" not found
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(779): App\Controllers\Templating->__construct()
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-10-07 16:53:45 --> Class "app\Models\UserModel" not found
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(779): App\Controllers\Templating->__construct()
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-10-07 16:56:41 --> Class "app\Models\UserModel" not found
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(779): App\Controllers\Templating->__construct()
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-10-07 16:56:49 --> Class "app\Models\UserModel" not found
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(779): App\Controllers\Templating->__construct()
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-10-07 16:57:07 --> Class "app\Controllers\BaseController" not found
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(767): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(386): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-10-07 16:57:40 --> Class "app\Models\UserModel" not found
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(779): App\Controllers\Templating->__construct()
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-10-07 16:58:08 --> Class "app\Models\UserModel" not found
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(779): App\Controllers\Templating->__construct()
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-10-07 16:58:09 --> Class "app\Models\UserModel" not found
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(779): App\Controllers\Templating->__construct()
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-10-07 16:58:09 --> Class "app\Models\UserModel" not found
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(779): App\Controllers\Templating->__construct()
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-10-07 16:58:10 --> Class "app\Models\UserModel" not found
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(779): App\Controllers\Templating->__construct()
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-10-07 17:00:27 --> Class "app\Models\UserModel" not found
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(779): App\Controllers\Templating->__construct()
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-10-07 17:01:25 --> Class "app\Controllers\BaseController" not found
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(767): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(386): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-10-07 17:01:26 --> Class "app\Controllers\BaseController" not found
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(767): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(386): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-10-07 17:01:27 --> Class "app\Controllers\BaseController" not found
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(767): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(386): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-10-07 17:01:41 --> Class "app\Models\UserModel" not found
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(779): App\Controllers\Templating->__construct()
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+ERROR - 2021-10-07 17:03:33 --> Table 'praktikumweb.user' doesn't exist
+CRITICAL - 2021-10-07 17:03:33 --> Table 'praktikumweb.user' doesn't exist
+#0 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(280): mysqli->query('INSERT INTO `us...')
+#1 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\CI4\app\Controllers\Templating.php(47): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(802): App\Controllers\Templating->saveRegister()
+#9 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Templating))
+#10 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\CI4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\CI4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
