@@ -2,9 +2,6 @@
 
 namespace Config;
 
-use App\Controllers\Templating;
-use App\Controllers\Templatingr;
-
 // Create a new instance of our RouteCollection class.
 $routes = Services::routes();
 
@@ -38,33 +35,34 @@ $routes->get('/', function () {
     $data = [
         'title' => "Blog - Home"
     ];
-    echo view('layouts/header', $data);
-    echo view('layouts/navbar');
+    echo view('layout/header', $data);
+    echo view('layout/navbar');
     echo view('v_home');
-    echo view('layouts/footer');
+    echo view('layout/footer');
 });
 
-
-$routes->get('/register', 'Templating::register');
-$routes->post('/saveRegister', 'Templating::saveRegister');
 $routes->get('/post', 'PostController::index');
 $routes->get('/about', function () {
     $data = [
         'title' => "Blog - About"
     ];
-    echo view('layouts/header', $data);
-    echo view('layouts/navbar');
+    echo view('layout/header', $data);
+    echo view('layout/navbar');
     echo view('v_about');
-    echo view('layouts/footer');
+    echo view('layout/footer');
 });
+$routes->get('/register', 'Templating::register');
+$routes->post('/saveRegister', 'Templating::saveRegister');
 
-$routes->get('admin', 'Templating::index');
-$routes->get('admin/posts', 'AdminPostsController::index');
-$routes->get('admin/posts/create', 'AdminPostsController::create');
-$routes->post('admin/posts/store', 'AdminPostsController::store');
+$routes->get('/admin', 'Templating::index');
+$routes->get('/admin/posts', 'AdminPostsController::index');
+$routes->get('/admin/posts/create', 'AdminPostsController::create');
+$routes->post('/admin/posts/store', 'AdminPostsController::store');
 $routes->get('/admin/posts/delete/(:segment)', 'AdminPostsController::delete/$1');
 $routes->post('/admin/posts/saveedit/(:segment)', 'AdminPostsController::saveEdit/$1');
 $routes->get('/admin/posts/edit/(:segment)', 'AdminPostsController::edit/$1');
+
+
 /*
  * --------------------------------------------------------------------
  * Additional Routing

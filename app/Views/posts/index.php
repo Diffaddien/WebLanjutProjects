@@ -168,10 +168,12 @@
                     </div>
                 </div>
 
-                <!-- SidebarSearch Form -->
+                <!-- Sidebar Menu -->
                 <nav class="mt-2">
                     <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
-                        <li class="nav-item ">
+                        <!-- Add icons to the links using the .nav-icon class
+               with font-awesome or any other icon font library -->
+                        <li class="nav-item">
                             <a href="/admin" class="nav-link">
                                 <i class="nav-icon fas fa-tachometer-alt"></i>
                                 <p>
@@ -179,7 +181,7 @@
                                 </p>
                             </a>
                         </li>
-                        <li class="nav-item ">
+                        <li class="nav-item">
                             <a href="/admin/posts" class="nav-link">
                                 <i class="nav-icon fas fa-book-open"></i>
                                 <p>
@@ -198,7 +200,7 @@
         <div class="content-wrapper">
             <!-- Content Header (Page header) -->
             <div class="content-header">
-                <div class="container-fluid">
+                <div class="container">
                     <div class="row mb-2">
                         <div class="col-sm-6">
                             <h1 class="m-0">My Posts</h1>
@@ -206,46 +208,43 @@
                         <div class="col-sm-6">
                             <ol class="breadcrumb float-sm-right">
                                 <li class="breadcrumb-item"><a href="#">Home</a></li>
-                                <li class="breadcrumb-item active">My Posts v1</li>
+                                <li class="breadcrumb-item active">Dashboard v1</li>
                             </ol>
                         </div><!-- /.col -->
                     </div><!-- /.row -->
                 </div><!-- /.container-fluid -->
             </div>
             <!-- /.content-header -->
-            <!--main konten-->
             <div class="container">
-                <a href="/admin/posts/create" class="btn btn-primary"><i class="fas fa-plus"></i> tambah data</a>
+                <a href="/admin/posts/create" class="btn btn-primary"><i class="fas fa-plus"></i> Tambah Data</a>
                 <div class="card mt-3">
                     <div class="card-header">
                         Daftar Postingan
                     </div>
                     <div class="card-body">
                         <div class="table-responsive">
-
-
                             <table class="table table-striped text-center">
                                 <thead>
                                     <tr>
-                                        <th scope="col">No </th>
+                                        <th scope="col">No.</th>
                                         <th scope="col">Judul</th>
-                                        <th scope="col">slug</th>
+                                        <th scope="col">Slug</th>
+                                        <th scope="col">Author</th>
                                         <th scope="col">Kategori</th>
-                                        <th scope="col">author</th>
-                                        <th scope="col">action</th>
+                                        <th scope="col">Action</th>
                                     </tr>
                                 </thead>
                                 <tbody>
                                     <?php foreach ($posts as $i => $post) : ?>
                                         <tr>
                                             <th scope="row"><?= $i + 1; ?></th>
-                                            <td><?= $post['judul']; ?></td>
-                                            <td><?= $post['slug']; ?></td>
-                                            <td><?= $post['author']; ?></td>
-                                            <td><?= $post['kategori']; ?></td>
+                                            <td><?= $post['judul'] ?></td>
+                                            <td><?= $post['slug'] ?></td>
+                                            <td><?= $post['author'] ?></td>
+                                            <td><?= $post['kategori'] ?></td>
                                             <td>
                                                 <a href="/admin/posts/edit/<?= $post['slug'] ?>" class="btn btn-sm btn-warning me-1"><i class="fa fa-edit"></i>Edit</a>
-                                                <a href="/admin/posts/delete/<?= $post['post_id'] ?>" class="btn btn-sm btn-danger" onclick="return confirm('Yakin...???');"><i class="fa fa-trash"></i>Delete</a>
+                                                <a href="/admin/posts/delete/<?= $post['post_id'] ?>" class="btn btn-sm btn-danger" onclick="return confirm('Apakah Anda yakin?');"><i class="fa fa-trash"></i>Delete</a>
                                             </td>
                                         </tr>
                                     <?php endforeach; ?>
@@ -255,24 +254,26 @@
                     </div>
                 </div>
             </div>
-            <!--/.hh -->
-            </section>
-            <!-- /.content -->
         </div>
-        <!-- /.content-wrapper -->
-        <footer class="main-footer">
-            <strong>Copyright &copy; 2014-2021 <a href="https://adminlte.io">AdminLTE.io</a>.</strong>
-            All rights reserved.
-            <div class="float-right d-none d-sm-inline-block">
-                <b>Version</b> 3.1.0
-            </div>
-        </footer>
+        <!-- /.card -->
+        </section>
+        <!-- right col -->
+    </div>
 
-        <!-- Control Sidebar -->
-        <aside class="control-sidebar control-sidebar-dark">
-            <!-- Control sidebar content goes here -->
-        </aside>
-        <!-- /.control-sidebar -->
+    <!-- /.content-wrapper -->
+    <footer class="main-footer">
+        <strong>Copyright &copy; 2014-2021 <a href="https://adminlte.io">AdminLTE.io</a>.</strong>
+        All rights reserved.
+        <div class="float-right d-none d-sm-inline-block">
+            <b>Version</b> 3.1.0
+        </div>
+    </footer>
+
+    <!-- Control Sidebar -->
+    <aside class="control-sidebar control-sidebar-dark">
+        <!-- Control sidebar content goes here -->
+    </aside>
+    <!-- /.control-sidebar -->
     </div>
     <!-- ./wrapper -->
 

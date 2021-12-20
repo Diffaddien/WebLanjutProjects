@@ -174,7 +174,7 @@
                         <!-- Add icons to the links using the .nav-icon class
                with font-awesome or any other icon font library -->
                         <li class="nav-item">
-                            <a href="/admin" class="nav-link">
+                            <a href="/dashboard" class="nav-link">
                                 <i class="nav-icon fas fa-tachometer-alt"></i>
                                 <p>
                                     Dashboard
@@ -182,7 +182,7 @@
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="/admin/posts" class="nav-link">
+                            <a href="/dashboard/posts" class="nav-link">
                                 <i class="nav-icon fas fa-book-open"></i>
                                 <p>
                                     My Post
@@ -200,10 +200,10 @@
         <div class="content-wrapper">
             <!-- Content Header (Page header) -->
             <div class="content-header">
-                <div class="container">
+                <div class="container-fluid">
                     <div class="row mb-2">
                         <div class="col-sm-6">
-                            <h1 class="m-0">My Posts</h1>
+                            <h1 class="m-0">Dashboard</h1>
                         </div><!-- /.col -->
                         <div class="col-sm-6">
                             <ol class="breadcrumb float-sm-right">
@@ -214,81 +214,31 @@
                     </div><!-- /.row -->
                 </div><!-- /.container-fluid -->
             </div>
-
             <!-- /.content-header -->
-            <div class="container">
-                <div class="card">
-                    <div class="card-header">
-                        Form Tambah Posts
-                    </div>
-                    <div class="card-body">
-                        <form action="/admin/posts/store" method="POST">
-                            <div class="row">
-                                <div class="col-md-4">
-                                    <div class="form-group">
-                                        <label for="judul">Judul Postingan</label>
-                                        <input type="text" class="form-control <?= ($validation->hasError('judul')) ? 'is-invalid' : ''; ?>" id="judul" name="judul" value="<?= old('judul'); ?>">
-                                        <?php if ($validation->hasError('judul')) : ?>
-                                            <div class="invalid-feedback">
-                                                <?= $validation->getError('judul'); ?>
-                                            </div>
-                                        <?php endif; ?>
-                                    </div>
-                                    <div class="form-group">
-                                        <label for="slug">Slug Postingan</label>
-                                        <input type="text" class="form-control <?= ($validation->hasError('slug')) ? 'is-invalid' : ''; ?>" id="slug" name="slug" value="<?= old('slug'); ?>">
-                                        <?php if ($validation->hasError('slug')) : ?>
-                                            <div class="invalid-feedback">
-                                                <?= $validation->getError('slug'); ?>
-                                            </div>
-                                        <?php endif; ?>
-                                    </div>
-                                    <div class="form-group">
-                                        <label for="kategori">Kategori Postingan</label>
-                                        <input type="text" class="form-control <?= ($validation->hasError('kategori')) ? 'is-invalid' : ''; ?>" id="kategori" name="kategori" value="<?= old('kategori'); ?>">
-                                        <?php if ($validation->hasError('kategori')) : ?>
-                                            <div class="invalid-feedback">
-                                                <?= $validation->getError('kategori'); ?>
-                                            </div>
-                                        <?php endif; ?>
-                                    </div>
-                                    <div class="form-group">
-                                        <label for="author">Author</label>
-                                        <input type="text" class="form-control <?= ($validation->hasError('author')) ? 'is-invalid' : ''; ?>" id="author" name="author" value="<?= old('author'); ?>">
-                                        <?php if ($validation->hasError('author')) : ?>
-                                            <div class=" invalid-feedback">
-                                                <?= $validation->getError('author'); ?>
-                                            </div>
-                                        <?php endif; ?>
-                                    </div>
-                                </div>
-                                <div class="col-md-8">
-                                    <div class="form-group">
-                                        <label for="deskripsi">Deskripsi</label>
-                                        <br>
-                                        <textarea name="deskripsi" id="deskripsi" class="form-control <?= ($validation->hasError('deskripsi')) ? 'is-invalid' : ''; ?>"><?= old('deskripsi'); ?></textarea>
-                                        <?php if ($validation->hasError('deskripsi')) : ?>
-                                            <div class=" invalid-feedback">
-                                                <?= $validation->getError('deskripsi'); ?>
-                                            </div>
-                                        <?php endif; ?>
-                                    </div>
-                                </div>
-                            </div>
-                            <button type="submit" class="btn btn-primary"><i class="fas fa-paper-plane"></i> Submit</button>
-                        </form>
-                    </div>
-                </div>
+            <!-- tambah kata kk nya disini -->
+            <!-- /.card-header -->
+            <div class="card-body pt-0">
+                <!--The calendar -->
+                <div id="calendar" style="width: 100%"></div>
             </div>
+            <!-- /.card-body -->
         </div>
         <!-- /.card -->
         </section>
         <!-- right col -->
     </div>
-
+    <!-- /.row (main row) -->
+    </div><!-- /.container-fluid -->
+    </section>
+    <!-- /.content -->
+    </div>
     <!-- /.content-wrapper -->
     <footer class="main-footer">
         <strong>Copyright &copy; 2014-2021 <a href="https://adminlte.io">AdminLTE.io</a>.</strong>
+        All rights reserved.
+        <div class="float-right d-none d-sm-inline-block">
+            <b>Version</b> 3.1.0
+        </div>
     </footer>
 
     <!-- Control Sidebar -->
@@ -299,10 +249,4 @@
     </div>
     <!-- ./wrapper -->
 
-    <?= $this->endSection(); ?>
-
-    <?= $this->section('myscript'); ?>
-    <script>
-        $('#deskripsi').summernote()
-    </script>
     <?= $this->endSection(); ?>

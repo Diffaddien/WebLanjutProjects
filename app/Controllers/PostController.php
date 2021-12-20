@@ -9,9 +9,9 @@ class PostController extends BaseController
         $data = [
             'title' => "Blog - Post"
         ];
-        echo view('layouts/header', $data);
-        echo view('layouts/navbar');
+        echo view('layout/header', $data);
+        echo view('layout/navbar');
         echo view('v_post');
-        echo view('layouts/footer');
+        echo view('layout/footer');
     }
 }

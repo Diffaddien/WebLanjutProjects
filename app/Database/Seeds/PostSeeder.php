@@ -10,9 +10,10 @@ class PostSeeder extends Seeder
     {
         $model = model('PostModel');
 
-        $kategori = ['nature', 'programming', 'cat', 'lifestyle', 'food'];
+        $kategori = ['nature', 'programming', 'fire', 'sport', 'food', 'game'];
 
         for ($i = 0; $i < 6; $i++) {
+
             $model->insert([
                 'judul'      => static::faker()->sentence(3),
                 'slug'       => static::faker()->unique()->slug(3),

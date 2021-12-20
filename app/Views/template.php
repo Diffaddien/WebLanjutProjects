@@ -28,9 +28,7 @@
     <link rel="stylesheet" href="/assets/adminlte/plugins/summernote/summernote-bs4.min.css">
 </head>
 
-
-
-<?= $this->renderSection('content'); ?>
+<?= $this->rendersection('content'); ?>
 
 <!-- jQuery -->
 <script src="/assets/adminlte/plugins/jquery/jquery.min.js"></script>
